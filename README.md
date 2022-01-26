@@ -1,9 +1,10 @@
 ### Oi Oi, Rômulo aqui
 
-- 🔭  Preferência por Front-end, mas o objetivo é ser Full stack
-- 🌱  Estudante de Programação
-- 📫 Contato: romulo160802@gmail.com
-- 😄 Pronouns: Ele/Dele
+- O objetivo é aprender o máxímo que eu puder 
+- Estudante de Programação
+- Contato: romulo160802@gmail.com
+- Atualmente 19 anos 
+- Procurando sempre ganhar mais experiência 
 -->
 <div>
   <a href="https://beacons.ai/Romz16">
