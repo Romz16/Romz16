@@ -1,4 +1,4 @@
-### Oi Oi, Rômulo aqui
+### 
 
 - O objetivo é aprender o máxímo que eu puder 
 - Estudante de Programação
